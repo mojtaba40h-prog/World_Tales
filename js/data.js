@@ -1183,6 +1183,7 @@ const DATA = {
    "author": {
     "name": "Traditionally attributed to Aesop"
    },
+      } 
    "category": "folktales",
    "genres": [
     "Fable"
