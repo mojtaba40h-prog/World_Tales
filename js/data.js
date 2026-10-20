@@ -837,6 +837,346 @@ const DATA = {
    },
    "featured": true
   },
+     {
+   "id": "ali-baba-and-the-forty-thieves",
+   "title": "Ali Baba and the Forty Thieves",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/ali-baba-and-the-forty-thieves/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "Ali Baba and the Forty Thieves",
+     "paras": [
+      "In a prosperous town of Persia, there lived two brothers: Cassim, who had married a wealthy wife and lived in luxurious ease, and Ali Baba, a poor woodcutter who sustained his modest family by gathering firewood in the dense forest and driving his three asses to town to sell his meager load. One afternoon, while deep in the forest, Ali Baba noticed a thick cloud of dust rising along the horizon. Fearing the approach of banditti, he quickly secured his animals and concealed himself within the thick foliage of a tall tree overlooking a steep cliff of solid rock.",
+      "A band of forty well-armed horsemen soon halted beneath his hiding place. Their captain approached the sheer rock face and pronounced in a resounding voice, "Open, Sesame!" To Ali Baba's astonishment, a hidden door swung open in the mountain face. The thieves marched inside carrying heavy saddlebags, the door sealing behind them. When they emerged empty-handed, the captain commanded, "Close, Sesame!" and the mountain closed seamlessly once more.",
+      "When the robbers had ridden away, Ali Baba descended from the tree, approached the portal, and uttered the magical words. The stone swung wide, revealing a vast, illuminated cavern brimming with rich silks, precious carpets, and mound upon mound of gold and silver coin. Taking only as much gold as his asses could bear, Ali Baba returned home, confiding the secret to his faithful slave girl, Morgiana.",
+      "Driven by avarice, Cassim soon extracted the secret from his humble brother and hastened to the cavern with ten mules. He gained entry easily, but in his overwhelming greed, the magic invocation escaped his mind when he sought to depart. "Open, Barley!" he cried in vain. The thieves returned, discovered Cassim, and slew him without mercy, hanging his severed body within the cave as a dire warning.",
+      "Ali Baba later recovered his brother's remains, bringing them home where the clever Morgiana devised a scheme to stitch the corpse together so Cassim might receive an honorable burial without rousing suspicion. Yet the thieves, realizing the treasure was still accessible, traced the family to Ali Baba's house. The captain disguising himself as an oil merchant, brought thirty-eight large jars into Ali Baba's courtyard-one holding oil, but thirty-seven hiding armed bandits.",
+      "The vigilant Morgiana discovered the plot while searching for lamp oil. Boiling a cauldron of oil, she poured a lethal portion into each jar, neutralizing the bandits before they could strike. Later, when the captain attempted to murder Ali Baba at table disguised as a trader, Morgiana performed a graceful dagger dance, plunging the blade into his heart at the climax. Grateful for her unwavering loyalty and courage, Ali Baba granted Morgiana her freedom and wed her to his son, securing his family's peace and prosperity for generations."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-voyages-of-sinbad-the-sailor",
+   "title": "The Voyages of Sinbad the Sailor",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-voyages-of-sinbad-the-sailor/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The Voyages of Sinbad the Sailor",
+     "paras": [
+      "In the city of Baghdad, during the reign of the famous Caliph Harun al-Rashid, there lived a merchant named Sinbad who had inherited great wealth from his father. Through youthful folly and lavish living, however, he squandered much of his inheritance. Realizing his peril, he invested his remaining fortune in merchant goods and embarked on a vessel from the port of Basra, eager to seek his fortune across the unknown seas.",
+      "During his first voyage, the vessel anchored beside a green island that appeared unexpectedly in the blue ocean. The crew set up fires to cook, but the ground suddenly shook with violence and plunged beneath the waves. The island was in truth an enormous slumbering sea monster! The ship cast off in panic, leaving Sinbad stranded alone upon a floating plank. Saved by divine providence, he reached a distant shore where his fortunes were revived by a generous monarch before he returned safely home.",
+      "Undeterred by hardship, Sinbad set sail six more times, encountering wonders and perils that tested human endurance. On his second voyage, he was abandoned on an isolated island where he encountered the giant Roc, a bird so vast its egg resembled a white dome. Tying himself to the creature's leg with his turban, he was borne away to the Valley of Diamonds-a treacherous gorge guarded by giant serpents. By strapping chunks of raw meat to his back, he was lifted out of the canyon by eagles and escaped with immense riches.",
+      "Subsequent voyages brought even greater perils: he was captured by a hideous, one-eyed giant who roasted sailors on spits; he was buried alive according to a cruel custom in a subterranean catacomb alongside his deceased wife, escaping through a mountain fissure; and he battled ferocious sea-monsters and savage pygmies. On his final voyage, after surviving a shipwreck upon a desolate island of loadstone, he navigated an underground river that carried him into the enchanted Kingdom of Serendib.",
+      "Enriched beyond measure by gifts from the King of Serendib and wiser for his suffering, Sinbad returned to Baghdad to live out his remaining years in luxury and peace. Recounting his adventures to a poor porter who bore his same name, Sinbad reflected upon the mystery of fate and the resilience of the human spirit through life's stormiest seas."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "king-shahryar-and-scheherazade",
+   "title": "King Shahryar and Scheherazade",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/king-shahryar-and-scheherazade/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "King Shahryar and Scheherazade",
+     "paras": [
+      "Long ago, in a kingdom spanning India and Indochina, ruled King Shahryar. Once a wise and noble monarch, his heart turned to stone upon discovering his queen's unfaithfulness. Consumed by hatred for all womankind, he resolved upon a terrible vengeance: each evening he would marry a noble maiden of his city, and each morning he would order her execution, swearing that no woman would ever betray him again. For three years, grief and terror reigned supreme as the city watched its daughters perish.",
+      "At last, the Grand Vizier, burdened with the dreadful duty of carrying out these executions, could find no more young women to bring to the palace. Seeing her father's distress, Scheherazade, the Vizier's elder daughter-a woman of extraordinary intellect, beauty, and wisdom-offered herself as the King's bride. Despite her father's weeping entreaties, she remained resolute, having devised a bold plan to save her city or perish in the attempt.",
+      "On the night of their nuptials, Scheherazade requested that her young sister, Dinarzad, be permitted to bid her farewell in the royal chamber. As arranged, Dinarzad begged her sister to tell one final story before the dawn broke. With the King's permission, Scheherazade began an enchanting tale of magicians, spirits, and wondrous kingdoms. She wove her words with such mastery that Shahryar was captivated.",
+      "As the first light of dawn illuminated the palace windows, Scheherazade reached the most thrilling moment of her narrative and abruptly fell silent. "Why do you stop?" demanded the King. "The morning light is here, my Lord," she answered softly, "and the rest of the tale is more wonderful still." Curioser than he was cruel, Shahryar postponed her execution for a single day to hear the conclusion.",
+      "Night after night, Scheherazade finished one story only to begin another, leaving each unfinished at daybreak. One thousand and one nights passed in this manner. During this time, Scheherazade bore the King three sons and gently transformed his bitter soul through parables of justice, mercy, and love. When she finally revealed she had no more stories to tell, Shahryar embraced her, swearing that her wisdom had cured his heart and saved his realm forever."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-fisherman-and-the-genie",
+   "title": "The Fisherman and the Genie",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-fisherman-and-the-genie/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The Fisherman and the Genie",
+     "paras": [
+      "There was once an aged and impoverished fisherman who supported his wife and three children by casting his net into the sea exactly four times each day. One morning, his first three casts yielded only a dead donkey, a vessel filled with mud, and a heavy heap of broken glass. Sorely distressed, the old man offered a humble prayer and cast his net for the fourth and final time.",
+      "When he hauled the heavy net to shore, he found within it a yellow copper jar, sealed tight with a lead stopper bearing the mystical seal of King Solomon. Overjoyed, thinking he might sell the vessel to a brass-founder, he unsealed it with his knife to inspect its contents. A dense column of black smoke erupted from the vessel, rising into the sky before coalescing into a colossal and terrifying Genie.",
+      ""Rejoice, O fisherman," bellowed the spirit, "for thou shalt die immediately, and choose only the manner of thy death!" The terrified fisherman asked how he could treat his savior so cruelly. The Genie explained that during his first century of imprisonment, he swore to enrich whoever freed him; in the second century, to open earth's treasures for his deliverer; but after four hundred years of captivity, in his wrath, he swore to slay whoever released him, granting only the choice of their execution.",
+      "Realizing that strength would fail him, the fisherman matched his wit against the giant. "I cannot believe," said he, "that a spirit so vast could ever fit inside so small a jar. Unless I see it with my own eyes, I shall die doubting thy power." Provoked by pride, the Genie dissolved once more into smoke and poured himself back into the copper jar. The instant the last wisps entered, the fisherman snatched the lead stopper and slammed it tightly into the neck.",
+      "Trapped once more, the Genie wept and pleaded for mercy, promising immense wealth and royal favor. Remembering the lessons of prudence, the fisherman bargained shrewdly before setting the spirit free under a solemn oath. The Genie fulfilled his promise, leading the fisherman to a magical lake of four-colored fish, an encounter that ultimately brought the humble angler to the court of the Sultan, securing his family's honor and riches forever."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-enchanted-horse",
+   "title": "The Enchanted Horse",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-enchanted-horse/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The Enchanted Horse",
+     "paras": [
+      "During the festive celebration of the New Year in the grand city of Shiraz, an Indian sage presented himself before the King of Persia. He brought with him a magnificent artificial horse crafted of dark ebony and ivory, adorned with precious gems. When the King inquired as to its purpose, the artisan explained that by turning a small peg upon its neck, the steed could carry its rider through the air to any place on earth in a fraction of an hour.",
+      "Prince Firouz Schah, the King's brave young son, mounted the mechanical beast to test its powers. Without waiting for instructions, he turned the ascending peg and was instantly carried into the heavens at staggering speed. Higher and higher he soared until the earth faded into darkness. Panic struck the Prince when he realized he did not know how to descend. Examining the horse in the moonlight, he discovered a second, smaller peg behind the right ear. Turning it gently, the horse glided smoothly downward, landing at midnight upon the roof of a magnificent palace in Bengal.",
+      "Exploring the palace softly, Firouz Schah entered a chamber where the Princess of Bengal lay asleep among her maidens. Captivated by her beauty, he awakened her gently. Surprised yet charmed by the handsome Persian prince, the princess offered him hospitality. For several days they grew deeply enamored, until the Prince invited her to ride with him upon the enchanted horse to his father's kingdom.",
+      "They landed safely near Shiraz, where the Prince placed his beloved in a royal pavilion while he went to prepare a imperial procession. However, the vengeful Indian sage, imprisoned earlier by the King for endangering the prince, learned of their arrival. Disguising himself as a royal messenger, he tricked the Princess, mounted the ebony horse with her, and flew away toward Cashmere.",
+      "Devastated by her loss, Prince Firouz Schah disguised himself as a traveling dervish and searched the Eastern kingdoms. Reaching Cashmere, he learned that the Sultan held a beautiful foreign lady who feigned madness to escape marriage. Recognizing his princess, Firouz Schah posed as a learned physician, cured her "madness" through secret magic, and staged a grand ritual wherein he mounted the enchanted horse with her, soaring back to Persia where they were married in eternal joy."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prince-ahmed-and-the-fairy-pari-banu",
+   "title": "Prince Ahmed and the Fairy Pari Banu",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/prince-ahmed-and-the-fairy-pari-banu/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "Prince Ahmed and the Fairy Pari Banu",
+     "paras": [
+      "Sultan Ali of India had three sons-Houssain, Ali, and Ahmed-who all loved their beautiful cousin, Princess Nouronnihar. To decide who should win her hand, the Sultan dispatched the brothers into distant lands, promising her to whichever prince brought back the most extraordinary curiosity. Prince Houssain bought a flying carpet; Prince Ali acquired an ivory tube that revealed whatever one wished to see; and Prince Ahmed purchased an artificial apple whose fragrance cured any mortal illness.",
+      "Looking through the ivory tube, the brothers discovered the Princess lay dying. Returning instantly upon the carpet, Ahmed healed her with his miraculous apple. Unable to choose between three equally life-saving gifts, the Sultan held an archery contest. Ahmed shot his arrow farthest, but it disappeared entirely into the desert distance. Following the path of his lost shaft, Ahmed traveled miles into the rocky wilderness until he found it lying beside a subterranean cavern.",
+      "Descending into the cavern, he discovered an underground realm of breathtaking beauty, ruled by Pari Banu, a powerful and glorious fairy. She confessed that it was she who had guided his arrow, loving him long before his arrival. Touched by her grace and supernatural splendor, Prince Ahmed wedded the fairy and lived in magical happiness within her subterranean palace.",
+      "Yet envious courtiers at his father's court whispered that Ahmed was gathering an army to overthrow the Sultan. To test his loyalty, the King demanded impossible feats from his son: first a tent large enough to shelter an army that could fit in a man's palm, then water from the Fountain of Lions, and finally a man no taller than three feet with a beard thirty feet long. Guided by the wisdom and magic of Pari Banu, Ahmed fulfilled every trial, obtaining the magical tent and bringing the fiery dwarf Schaibar to court.",
+      "When the malignant viziers attempted to strike the tiny champion, Schaibar destroyed the wicked advisors with his iron club and crowned Prince Ahmed as the rightful heir, ushering in an era of peace and enchantment across India."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-merchant-and-the-genie",
+   "title": "The Merchant and the Genie",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-merchant-and-the-genie/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The Merchant and the Genie",
+     "paras": [
+      "There lived a wealthy merchant who maintained a reputation for honor and charity throughout the lands of the East. Having journeyed to a distant city to collect debts, he sat down beneath a shady palm tree beside a clear spring to rest his weary horse. Taking a few dates and a loaf of bread from his saddlebags, he ate his humble meal, throwing the date stones casually into the air.",
+      "Suddenly, a terrifying monster of gigantic stature appeared before him, brandishing a gleaming scimitar. "Rise, wretched mortal," the spirit roared, "that I may strike off thy head with this blade, even as thou hast slain my beloved son!" The astonished merchant protested his innocence, but the Genie revealed that one of the discarded date stones had struck his invisible son in the eye, killing him instantly.",
+      "Pleading for his life, the merchant urged that he had acted without malice. Seeing the monster remained implacable, the merchant asked only for a single year's grace to settle his worldly affairs, pay his debts, and bid farewell to his grieving wife and children, swearing a solemn oath by Heaven to return to the spring on the next New Year's Day. Impressed by his integrity, the Genie accepted the pledge and vanished.",
+      "The merchant returned home, fulfilled his promises, and divided his estate. True to his sacred oath, he returned to the palm tree exactly one year later, sitting mournfully to await his executioner. As he wept, three venerable sheikhs passed by: one leading a gazelle, another leading two black hounds, and the third leading a she-mule. Learning of his impending doom, they elected to stay and witness his fate.",
+      "When the monstrous Genie materialized with drawn sword, each sheikh stepped forward, offering to tell his own miraculous story in exchange for one-third of the merchant's blood penalty. Through tales of magical transformations and unfaithful relatives turned to beasts, the sheikhs so fascinated and softened the Genie's vengeful heart that he relinquished his claim and vanished, granting the noble merchant his life and freedom."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qamar-al-zaman-and-princess-budur",
+   "title": "Qamar al-Zaman and Princess Budur",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/qamar-al-zaman-and-princess-budur/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "Qamar al-Zaman and Princess Budur",
+     "paras": [
+      "In the distant realm of Khaledan, King Shahzaman was blessed with a son named Qamar al-Zaman, whose extraordinary beauty was renowned across nations. Simultaneously, in the far-off islands of China, King Ghayur ruled over his daughter, Princess Budur, a maiden unequaled in grace and intellect. Both youths, however, stubbornly refused all royal proposals of marriage, preferring a life of solitude, which so enraged their respective fathers that both were imprisoned in isolated towers.",
+      "One night, two powerful genies-Maymunah and Dahnash-met in the sky above the tower where Qamar al-Zaman slept. Disagreeing over which youth possessed the greater beauty, they transported Princess Budur through the night air and laid her softly beside the sleeping prince. When Qamar al-Zaman awoke, he was overwhelmed by the beauty of the maiden beside him. He exchanged rings with her sleeping form before drifting back into slumber. When Budur awoke later, she too found the prince and fell deeply in love before the genies whisked her back to China.",
+      "Morning brought heartbreak to both kingdoms. Believing their encounters to be dreams, both prince and princess fell into despair and madness when their loved ones could not be found. Princess Budur was kept bound in golden chains, while her distraught father proclaimed that any physician who failed to cure her madness would be executed.",
+      "Learning of this, Marzavan, the foster-brother of Princess Budur, traveled across Asia searching for answers. Arriving in Khaledan, he recognized the ring on Prince Qamar al-Zaman's finger and realized the truth. Guiding the prince across continents disguised as an astrologer, Qamar al-Zaman reached the Chinese court, cured Budur by sending her own ring back to her, and revealed his identity. Reunited in joy, their fathers reconciled their kingdoms, celebrating a marriage that joined the realms of China and Persia in everlasting peace."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-city-of-brass",
+   "title": "The City of Brass",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-city-of-brass/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The City of Brass",
+     "paras": [
+      "During the reign of Caliph Abd al-Malik ibn Marwan in Damascus, tales reached the royal court of ancient copper vessels sealed with lead stoppers, washed ashore along the distant coast of Africa. These vessels contained mighty genies imprisoned by King Solomon ages ago. Desireful to inspect these legendary relics, the Caliph dispatched Emir Musa with an expedition into the vast, uncharted deserts of the Maghreb, guided by the wise Sheikh Abd al-Samad.",
+      "For months the caravan traversed desolate plains and forgotten ruins, encountering brass statues that pointed toward lost horizons. At length, they arrived before the soaring, shimmering walls of the City of Brass -a metropolis constructed entirely of polished brass, without gates, doors, or visible openings. Standing beneath its towering battlements, the expedition felt a profound silence resting over the land like a shroud.",
+      "Attempting to scale the impenetrable ramparts, several soldiers climbed a ladder, but upon reaching the parapet, they burst into eerie laughter and leaped to their deaths. Recognizing a powerful enchantment, Sheikh Abd al-Samad recited holy prayers and ascended safely, discovering that the soldiers had been entranced by lifelike illusions painted upon the battlements. Descending within, he unlocked the massive copper gates from inside, admitting Emir Musa and his men.",
+      "Inside, the expedition wandered through wide avenues lined with bazaar stalls laden with silks, jewels, and spices-yet every merchant and citizen sat frozen in death, perfectly preserved as dried mummies. In the heart of the city, within a palace of marble and crystal, they found Princess Tadmur lying upon a couch of pearls, guarded by two mechanical automata with drawn swords. An inscription at her feet revealed that a devastating famine had struck the city, proving that all the gold and brass in the world could not purchase a single grain of wheat or buy one extra day of life.",
+      "Humbled by this somber spectacle, Emir Musa collected the Solomon-sealed vessels along the coast and returned to Damascus. Reflecting upon the vanity of earthly power, he renounced his worldly honors to spend his remaining days in quiet devotion and wisdom."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "the-porter-and-the-three-ladies-of-baghdad",
+   "title": "The Porter and the Three Ladies of Baghdad",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-porter-and-the-three-ladies-of-baghdad/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The Porter and the Three Ladies of Baghdad",
+     "paras": [
+      "In a bright morning in Baghdad, a poor but cheerful porter was hired by a elegant, veiled lady to carry a large basket through the city markets. She filled the basket with rare fruits, choice wines, fragrant flowers, and costly confections before leading him to a magnificent mansion. Upon entering, the porter was astonished to find two equally beautiful sisters presiding over an opulent hall of marble fountains and silk cushions.",
+      "Charmed by the porter's wit and good humor, the three ladies invited him to join their evening feast on one strict condition: "Speak not of that which concerns thee not, lest thou hear that which pleases thee not!" The night was filled with music and merriment, but as darkness deepened, three mendicant dervishes-each blind in his left eye and shaved after the manner of their order-knocked at the gate seeking shelter, followed shortly by Caliph Harun al-Rashid, his Vizier Ja'far, and his executioner Masrur, disguised as foreign merchants.",
+      "The hostesses granted shelter to all, renewing the sacred oath of silence. However, as midnight approached, the mood turned mysterious and somber. Two black hounds were brought into the hall; the eldest sister whipped them weeping, then embraced them with tears of sorrow. Next, another sister played a lute so mournfully that she rent her garments in grief. Unable to restrain his curiosity, the porter blurted out a question demanding an explanation for these strange rituals.",
+      "The hostesses raged at the broken vow, ordering their servants to bind the guests and draw swords. To save their lives, each guest was required to tell his life story. The three one-eyed dervishes revealed they were all fallen princes transformed by sorcery, while the sisters later recounted how their enchanted black hounds were in truth their own unfaithful sisters, transformed by a kindly fairy.",
+      "Deeply moved by their tales of misfortune and magic, the Caliph revealed his true identity the following morning, righted their wrongs through his imperial power, restored the princes to their thrones, and ordered the extraordinary night's events recorded in the royal annals of Persia."
+     ]
+    }
+   ]
+  }, 
   {
    "id": "the-tortoise-and-the-hare",
    "title": "The Tortoise and the Hare",
