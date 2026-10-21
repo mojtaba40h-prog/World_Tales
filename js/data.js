@@ -5722,12 +5722,12 @@ const DATA = {
    }
   },
   {
-   "id": "one-thousand-and-one-night ",
+   "id": "one-thousand-and-one-nights",
    "name": "Arabian Nights ",
    "author": "Unknown ",
    "category": "folktales",
    "cover": {
-    "src": "assets/images/collections/one-thousand-and-one-night/cover.webp",
+    "src": "assets/images/collections/one-thousand-and-one-nights/cover.webp",
     "w": 440,
     "h": 656
    },
