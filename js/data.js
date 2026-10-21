@@ -837,6 +837,41 @@ const DATA = {
    },
    "featured": true
   },
+{
+   "id": "ali-baba-and-the-forty-thieves",
+   "title": "Ali Baba and the Forty Thieves",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/ali-baba-and-the-forty-thieves/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "Ali Baba and the Forty Thieves",
+     "paras": [
+      "In a prosperous town of Persia, there lived two brothers: Cassim, who had married a wealthy wife and lived in luxurious ease, and Ali Baba, a poor woodcutter who sustained his modest family by gathering firewood in the dense forest and driving his three asses to town to sell his meager load. One afternoon, while deep in the forest, Ali Baba noticed a thick cloud of dust rising along the horizon. Fearing the approach of banditti, he quickly secured his animals and concealed himself within the thick foliage of a tall tree overlooking a steep cliff of solid rock.",
+      "A band of forty well-armed horsemen soon halted beneath his hiding place. Their captain approached the sheer rock face and pronounced in a resounding voice, Open, Sesame! To Ali Baba's astonishment, a hidden door swung open in the mountain face. The thieves marched inside carrying heavy saddlebags, the door sealing behind them. When they emerged empty-handed, the captain commanded, Close, Sesame! and the mountain closed seamlessly once more.",
+      "When the robbers had ridden away, Ali Baba descended from the tree, approached the portal, and uttered the magical words. The stone swung wide, revealing a vast, illuminated cavern brimming with rich silks, precious carpets, and mound upon mound of gold and silver coin. Taking only as much gold as his asses could bear, Ali Baba returned home, confiding the secret to his faithful slave girl, Morgiana.",
+      "Driven by avarice, Cassim soon extracted the secret from his humble brother and hastened to the cavern with ten mules. He gained entry easily, but in his overwhelming greed, the magic invocation escaped his mind when he sought to depart. Open, Barley! he cried in vain. The thieves returned, discovered Cassim, and slew him without mercy, hanging his severed body within the cave as a dire warning.",
+      "Ali Baba later recovered his brother's remains, bringing them home where the clever Morgiana devised a scheme to stitch the corpse together so Cassim might receive an honorable burial without rousing suspicion. Yet the thieves, realizing the treasure was still accessible, traced the family to Ali Baba's house. The captain disguising himself as an oil merchant, brought thirty-eight large jars into Ali Baba's courtyard-one holding oil, but thirty-seven hiding armed bandits.",
+      "The vigilant Morgiana discovered the plot while searching for lamp oil. Boiling a cauldron of oil, she poured a lethal portion into each jar, neutralizing the bandits before they could strike. Later, when the captain attempted to murder Ali Baba at table disguised as a trader, Morgiana performed a graceful dagger dance, plunging the blade into his heart at the climax. Grateful for her unwavering loyalty and courage, Ali Baba granted Morgiana her freedom and wed her to his son, securing his family's peace and prosperity for generations."
+     ]
+    }
+   ]
+}, 
   {
    "id": "the-tortoise-and-the-hare",
    "title": "The Tortoise and the Hare",
