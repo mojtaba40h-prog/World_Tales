@@ -3543,6 +3543,40 @@ const DATA = {
     }
    ]
   }, 
+{
+   "id": "the-voyages-of-sinbad-the-sailor",
+   "title": "The Voyages of Sinbad the Sailor",
+   "author": {
+    "name": "Traditional Arabian Nights Tale"
+   },
+   "category": "folktales",
+   "collection": "one-thousand-and-one-nights",
+   "genres": [
+    "Folktale",
+    "Classic"
+   ],
+   "language": "English",
+   "single": true,
+   "cover": {
+    "src": "assets/images/stories/the-voyages-of-sinbad-the-sailor/cover.webp",
+    "w": 440,
+    "h": 656
+   },
+   "characters": [],
+   "chapters": [
+    {
+     "n": 1,
+     "title": "The Voyages of Sinbad the Sailor",
+     "paras": [
+      "In the city of Baghdad, during the reign of the famous Caliph Harun al-Rashid, there lived a merchant named Sinbad who had inherited great wealth from his father. Through youthful folly and lavish living, however, he squandered much of his inheritance. Realizing his peril, he invested his remaining fortune in merchant goods and embarked on a vessel from the port of Basra, eager to seek his fortune across the unknown seas.",
+      "During his first voyage, the vessel anchored beside a green island that appeared unexpectedly in the blue ocean. The crew set up fires to cook, but the ground suddenly shook with violence and plunged beneath the waves. The island was in truth an enormous slumbering sea monster! The ship cast off in panic, leaving Sinbad stranded alone upon a floating plank. Saved by divine providence, he reached a distant shore where his fortunes were revived by a generous monarch before he returned safely home.",
+      "Undeterred by hardship, Sinbad set sail six more times, encountering wonders and perils that tested human endurance. On his second voyage, he was abandoned on an isolated island where he encountered the giant Roc, a bird so vast its egg resembled a white dome. Tying himself to the creature's leg with his turban, he was borne away to the Valley of Diamonds-a treacherous gorge guarded by giant serpents. By strapping chunks of raw meat to his back, he was lifted out of the canyon by eagles and escaped with immense riches.",
+      "Subsequent voyages brought even greater perils: he was captured by a hideous, one-eyed giant who roasted sailors on spits; he was buried alive according to a cruel custom in a subterranean catacomb alongside his deceased wife, escaping through a mountain fissure; and he battled ferocious sea-monsters and savage pygmies. On his final voyage, after surviving a shipwreck upon a desolate island of loadstone, he navigated an underground river that carried him into the enchanted Kingdom of Serendib.",
+      "Enriched beyond measure by gifts from the King of Serendib and wiser for his suffering, Sinbad returned to Baghdad to live out his remaining years in luxury and peace. Recounting his adventures to a poor porter who bore his same name, Sinbad reflected upon the mystery of fate and the resilience of the human spirit through life's stormiest seas."
+     ]
+    }
+   ]
+  },
   {
    "id": "speckled-band",
    "title": "The Adventure of the Speckled Band",
