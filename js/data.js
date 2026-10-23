@@ -2858,6 +2858,7 @@ const DATA = {
     "src": "assets/images/stories/les-miserables/ch15.webp",
     "w": 560,
     "h": 835
+   } 
    }, 
   {
    "id": "momotaro-the-peach-boy",
