@@ -2520,6 +2520,345 @@ const DATA = {
     "notes": null
    }
   },
+{
+   "id": "les-miserables",
+   "title": "Les Misérables  ",
+   "author": {
+    "name": "Victor Hugo "
+   },
+   "category": "society",
+   "genres": [
+    "Classic"
+   ],
+   "language": "English",
+   "edition": "Illustrated adaptation in 15 chapters.",
+   "intro": "In 19th-century France, Jean Valjean, an ex-convict seeking redemption, is pursued for decades by the ruthless inspector Javert. Along his journey, he touches the lives of the tragic Fantine, her daughter Cosette, and the young revolutionary Marius.",
+   "cover": {
+    "src": "assets/images/stories/les-miserables/cover.webp",
+ "w": 480,
+  "h": 716
+ },
+ "characters": [
+  {
+   "name": "Jean Valjean",
+   "role": "Ex-convict seeking redemption, later Mayor Madeleine",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-jean-valjean.webp",
+    "w": 360,
+    "h": 268
+   }
+  },
+  {
+   "name": "Inspector Javert",
+   "role": "Rigid police inspector obsessed with the law",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-javert.webp",
+    "w": 360,
+    "h": 268
+   }
+  },
+  {
+   "name": "Fantine",
+   "role": "A tragic mother forced into poverty for her child",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-fantine.webp",
+    "w": 360,
+    "h": 268
+   }
+  },
+  {
+   "name": "Cosette",
+   "role": "Fantine's daughter, adopted by Jean Valjean",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-cosette.webp",
+    "w": 360,
+    "h": 268
+   }
+  },
+  {
+   "name": "Marius Pontmercy",
+   "role": "Young revolutionary student in love with Cosette",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-marius.webp",
+    "w": 360,
+    "h": 268
+   }
+  },
+  {
+   "name": "Bishop Myriel",
+   "role": "The compassionate bishop of Digne",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-bishop-myriel.webp",
+    "w": 360,
+    "h": 268
+   }
+  },
+  {
+   "name": "The Thénardiers",
+   "role": "Greedy and malicious innkeepers",
+   "img": {
+    "src": "assets/images/stories/les-miserables/char-thenardiers.webp",
+    "w": 360,
+    "h": 268
+   }
+  }
+ ],
+ "chapters": [
+  {
+   "n": 1,
+   "title": "The Prisoner's Return",
+   "paras": [
+    "In the year 1815, a solitary traveler walked into the town of Digne as evening shadows lengthened over the rugged landscape. He was a man of formidable stature, clad in ragged garments, his face weather-beaten and hardened by decades of unyielding sorrow. In his hand, he clutched a heavy knotty stick; upon his back hung a coarse yellow knapsack. This man was Jean Valjean.",
+    "Nineteen years earlier, Valjean had been a simple pruner in Faverolles, supporting his widowed sister and her seven starving children. In a moment of desperate agony during a bitter winter, he had shattered a baker's window pane to steal a single loaf of bread. For this offense, he was sentenced to five years of hard labor in the galleys of Toulon. But the relentless anguish of captivity and the longing for freedom drove him to attempt escape four times, each failure lengthening his sentence until nineteen grueling years had slipped into the abyss of his past.",
+    "Now, released into the world with a yellow passport that branded him a dangerous ex-convict, Valjean found every door barred against him. Innkeepers turned him away with scorn; villagers locked their gates; even the doghouse in the churchyard was denied him when a hound barked him back into the cold night air. The law had restored his physical body to the streets, but society had condemned his soul to perpetual exile.",
+    "Hatred festered in his chest like a dark poison. He had entered prison weeping and despairing; he left it bitter and cold, viewing mankind as a collective enemy that had robbed him of his youth, his dignity, and his humanity. Wandering through the darkened streets of Digne, cold and famished, Jean Valjean possessed nothing save his anger and his terrible yellow passport."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch01.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Jean Valjean carrying his yellow passport and knapsack walks into Digne"
+  },
+  {
+   "n": 2,
+   "title": "The Bishop's Mercy",
+   "paras": [
+    "When all human hearths were closed to the wretched outcast, one door stood unlatched. Guided by a compassionate parishioner, Jean Valjean knocked at the residence of the Bishop of Digne, Monseigneur Myriel. Known throughout the province simply as Welcome, the elderly bishop lived a life of saintly simplicity, bestowing his stipend upon the poor and keeping his humble dwelling unlocked to anyone in need.",
+    "Valjean entered, thrusting his yellow passport forward with wild defiance. \"Look here!\" he growled. \"My name is Jean Valjean. I am a convict. I have served nineteen years in the galleys. No one will take me in. Will you give me food and a bed, or must I sleep in the stables?\"",
+    "The bishop looked upon him with profound tenderness. Turning to his housekeeper, he calmly said, \"Madame Magloire, lay another place at the table and set out clean sheets upon the bed.\"",
+    "He addressed Valjean not as a felon, but as a honored guest. \"Sit down, sir, and warm yourself,\" the bishop said. \"You suffer; you are hungry and thirsty. You are welcome here.\"",
+    "For the first time in nearly two decades, Valjean sat at a white-clothed table, eating warm soup with silver cutlery. Yet, as night descended, the darkness in Valjean's soul proved stubborn. Waking in the middle of the night while the household slept, his eyes fell upon the bishop's silver candlesticks and tableware. The instincts of a desperate beast stirred within him. Gathering the heavy silver utensils into his knapsack, he crept silently through the garden wall and vanished into the darkness.",
+    "The following morning, three gendarmes seized Valjean on the road and dragged him back to the bishop's door, the stolen silver in their possession. \"Ah, there you are!\" Bishop Myriel exclaimed upon seeing him. \"I am glad to see you, Jean Valjean. But I gave you the candlesticks as well, which are also silver. Why did you not take them with the plates?\"",
+    "Turning to the astonished gendarmes, the bishop smiled softly. \"This gentleman is my guest. I gave him these pieces.\" The officers released Valjean and departed."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch02.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Bishop Myriel presents the silver candlesticks to Jean Valjean before the officers"
+  },
+  {
+   "n": 3,
+   "title": "The Birth of a New Man",
+   "paras": [
+    "Left alone with the bishop, Jean Valjean stood trembling, gripped by an incomprehensible terror. The bishop walked to the mantelpiece, lifted the two solid silver candlesticks, and placed them into Valjean's trembling hands.",
+    "\"Do not forget,\" the bishop whispered, his voice resonating with divine solemnity, \"never forget that you have promised me to use this silver to become an honest man. Jean Valjean, my brother, you belong no longer to evil, but to good. It is your soul that I am buying for you. I withdraw it from dark thoughts and from the spirit of perdition, and I give it to God!\"",
+    "Valjean fled from Digne as if pursued by ghosts. He wandered into the countryside, his mind locked in violent conflict. The bishop's inexplicable act of divine mercy struck against his nineteen years of accumulated malice like lightning against a mountain rock. He could no longer justify his hatred for humanity when faced with a grace so absolute.",
+    "Sitting by the roadside late that afternoon, overwhelmed by a turmoil he could not name, he placed his foot upon a forty-sous coin dropped by a passing Savoyard boy named Petit-Gervais. When the child wept and begged for his money, Valjean drove him away in a lingering fit of criminal reflex. But as the boy's cries faded into the hills, realization crashed down upon Valjean like a collapsing world.",
+    "He had robbed a child! He ran through the roads calling the boy's name, but Petit-Gervais was gone. Valjean fell to his knees in the dust, burst into tears, and wept for the first time in twenty years. In those tears, the convict died, and a redeemed soul was born into the light."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch03.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Jean Valjean kneels crying on the dusty road after Petit-Gervais leaves"
+  },
+  {
+   "n": 4,
+   "title": "Fantine's Broken Dreams",
+   "paras": [
+    "In Paris, a beautiful and naive young woman named Fantine gave her heart entirely to a wealthy student named Tholomyès. But what was a sacred love to Fantine was merely a passing amusement to the young gentleman. One morning, Tholomyès vanished, abandoning Fantine and leaving her with an illegitimate infant girl named Cosette.",
+    "Destitute and desperate to find work in her native town of Montreuil-sur-Mer, Fantine realized that no respectable household would employ an unwed mother. As she journeyed along the road, she came upon an inn at Montfermeil kept by a couple named Thénardier. Madame Thénardier sat surrounded by her own well-fed children, playing in the sun.",
+    "Falsely deceived by this domestic facade, Fantine pleaded with the Thénardiers to board little Cosette, promising to send a monthly stipend for her maintenance. The mercenary Thénardiers sensed an opportunity for extortion and agreed, demanding exorbitant payments.",
+    "Fantine continued on to Montreuil-sur-Mer, securing employment in a flourishing black glass trinket factory. She worked tirelessly, starving herself to send money to Montfermeil. But the Thénardiers were monsters of greed and cruelty. They clothed Cosette in rags, forced the tiny child to sweep the yard and fetch heavy buckets of water from the dark woods, and fed her scraps under the table alongside the dog.",
+    "Meanwhile, in Montreuil, envious gossip exposed Fantine's secret child. An overzealous overseer dismissed her from the factory without the proprietor's knowledge. Cast into extreme poverty, Fantine sold her golden hair, then her front teeth, and finally her very body to pay the Thénardiers' ever-increasing financial demands. Sinking into consumption, her spirit broken, Fantine lay dying in a charity hospital, sustained only by the desperate hope of seeing her beloved Cosette once more."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch04.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Fantine holds young Cosette outside the Thénardiers' inn in Montfermeil"
+  },
+  {
+   "n": 5,
+   "title": "The Mayor's Secret",
+   "paras": [
+    "While Fantine's life shattered, the town of Montreuil-sur-Mer was transformed by the sudden arrival of an enigmatic stranger calling himself Monsieur Madeleine. Implementing revolutionary manufacturing techniques in the local jet trinket industry, Madeleine brought immense wealth and prosperity to the entire region. He established free schools, funded hospitals, and gave away his fortune to the poor.",
+    "His benevolence was so extraordinary that the King appointed him Mayor of the town. Monsieur Madeleine accepted the office reluctantly, remaining modest, solitary, and deeply secretive. No one suspected that this beloved magistrate was Jean Valjean, the escaped convict who had transformed the bishop's silver into a life of sanctified charity.",
+    "Yet one man watched Mayor Madeleine with cold, implacable eyes. Inspector Javert, the chief of police in Montreuil, was an embodiment of rigid, unyielding legalism. Born in a prison to a card-teller mother, Javert viewed humanity through a binary lens: authority was absolute, and any lawbreaker was beyond redemption. In his mind, mercy was a crime against justice.",
+    "Javert felt an eerie familiarity whenever he observed the Mayor. His suspicions ignited into certainty when an old carter named Fauchelevent was pinned beneath a heavy cart loaded with stones. As the vehicle sank into the mud, threatening to crush the man, Mayor Madeleine stepped into the mire, climbed beneath the crushing weight, and lifted the cart upon his immense shoulders—a feat of extraordinary physical power Javert had only ever witnessed once before, among the galley slaves of Toulon."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch05.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Monsieur Madeleine lifts the heavy cart off Fauchelevent as Javert watches closely"
+  },
+  {
+   "n": 6,
+   "title": "The Trial of Conscience",
+   "paras": [
+    "Shortly after saving Fauchelevent, Mayor Madeleine came upon Javert standing before him in profound humiliation. The inspector requested that he be dismissed from his post. When asked why, Javert revealed that he had denounced Monsieur Madeleine to the Prefecture in Paris as Jean Valjean, the notorious convict.",
+    "\"I was mistaken, Monsieur le Maire,\" Javert admitted with grim remorse. \"The real Jean Valjean has been captured at Arras under the name of Champmathieu. He was caught stealing apples and has been positively identified by three former galley slaves. His trial takes place tomorrow.\"",
+    "The revelation struck Valjean like a physical blow. That night, inside his locked chamber, he endured a terrible agonized night of the soul. If he remained silent, the innocent, simple-minded Champmathieu would be condemned in his place to life imprisonment at Toulon. Valjean would remain Mayor, continue his vast charities, and protect the dying Fantine. Was it not God's will that he stay free to do good?",
+    "Yet, he realized that to purchase his safety at the expense of an innocent man would destroy the soul the bishop had redeemed. \"To remain a ghost in the light, or to become a saint in the galleys?\" he agonized. By morning, conscience conquered fear.",
+    "Valjean rode frantically across the country to Arras. Entering the packed courtroom just as the judge prepared to sentence Champmathieu, Valjean stood before the astonished tribunal and announced: \"Gentlemen of the jury, release the prisoner. I am Jean Valjean.\" To prove his claim, he revealed secret details about his former prison comrades that only the true convict could know. Leaving the court paralyzed in stunned silence, Valjean walked out, free for a few hours more to fulfill a final promise."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch06.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Valjean stands up in the Arras courtroom to reveal his true identity"
+  },
+  {
+   "n": 7,
+   "title": "Fantine's Final Hope",
+   "paras": [
+    "Valjean returned swiftly to Montreuil-sur-Mer and hurried to the infirmary where Fantine lay near death. Upon discovering her tragic plight days earlier, he had pledged to bring Cosette to her bedside and had paid off all her debts to the Thénardiers. The feverish mother lived now only on the anticipation of holding her child once more.",
+    "As Valjean sat at her bedside, soothing her broken spirit with gentle reassurances, heavy footsteps echoed outside the chamber door. Inspector Javert burst into the room, his eyes blazing with ferocious triumph. He had received confirmation from Paris and came to arrest the former convict.",
+    "\"Be quick!\" Javert sneered, seizing Valjean by the collar. \"Come along, Jean Valjean!\"",
+    "At the mention of that name and the violent intrusion of the police officer, Fantine gasped in terror. She looked at Madeleine, the great mayor, then at Javert, realizing in a horrific flash that her savior was an escaped criminal and that her child was not in the room.",
+    "\"Where is Cosette?\" she cried out, her weak heart hammering in her chest. \"Has she not come?\"",
+    "Javert barked with cruel laughter. \"Quiet, woman! Your mayor is a convict from the galleys!\"",
+    "The sudden, devastating shock crushed Fantine's remaining strength. She fell back upon her pillow, seized by a violent spasm, and expired. Valjean stepped toward Javert, his eyes burning with a terrible fury. Breaking the inspector's grip with ease, he knelt by Fantine's bed, closed her staring eyes, and whispered softly into her ear: \"I swear before God that I will care for your child.\"",
+    "Surrendering himself to Javert, Valjean was cast into the municipal prison. But that night, he broke the iron bars of his cell and vanished into the darkness, driven by a sacred vow that no law could annul."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch07.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Javert confronts Valjean at Fantine's bedside in the infirmary"
+  },
+  {
+   "n": 8,
+   "title": "The Little Prisoner",
+   "paras": [
+    "On Christmas Eve in the village of Montfermeil, eight-year-old Cosette shivered in her thin rags. While the Thénardiers' daughters wore warm woolen dresses and played with splendid dolls, Cosette sat alone in the dark kitchen, working until her tiny hands bled. Late that evening, Madame Thénardier shrieked at her to go to the spring in the woods to fetch a bucket of water.",
+    "Terrified of the dark, the child carried a heavy wooden bucket into the freezing forest. Each gust of wind through the bare trees filled her with terror. She filled the bucket at the spring, but the weight was too great for her frail arms; she was forced to stop every few paces, weeping silently in the darkness.",
+    "Suddenly, the weight lifted from her hand. A tall stranger had silently taken the bucket handle. His presence was formidable, yet his voice was infinitely soft when he spoke: \"My child, this load is too heavy for you.\"",
+    "It was Jean Valjean. Having retrieved his buried savings from the forest of Montfermeil, he had come to fulfill his promise to Fantine. He accompanied Cosette to the inn, where he observed with silent outrage the cruelty of the Thénardiers. He bought the finest doll from a shop window and placed it into Cosette's astonished hands—the first gift she had ever received.",
+    "The next morning, Valjean confronted the greedy innkeeper. Thénardier attempted to extract a fortune for the child, but Valjean produced Fantine's signed authorization and paid a generous sum to sever all ties. Taking the small, trembling hand of the little girl, Valjean led her away from the house of torture forever."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch08.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Jean Valjean takes the heavy water bucket from young Cosette in the dark woods"
+  },
+  {
+   "n": 9,
+   "title": "A Father and His Daughter",
+   "paras": [
+    "Valjean brought Cosette to Paris, taking refuge in a secluded, dilapidated tenement known as the Gorbeau House on the outskirts of the city. There, in a bleak room, a profound miracle blossomed. Valjean had loved no one in his long, desolate life; his heart had been hardened by nineteen years of suffering and years of secretive solitude.",
+    "Now, all the suppressed tenderness of his soul poured out upon this abandoned orphan child. He taught Cosette to read, bought her warm clothes, and watched over her sleep. In return, Cosette, who had known only beatings and fear, gave Valjean her absolute love and trust. To her, he was not a convict or a fugitive, but a father—a benevolent angel sent to shield her from the dark world.",
+    "\"When I saw him beside me,\" Cosette would later recall, \"it seemed as if the sun had entered the room.\"",
+    "For a few fleeting months, they lived in quiet, sacred bliss. But Valjean's habit of giving coins to the local beggars attracted attention. One evening, disguised as a beggar, Inspector Javert sat on a street corner and recognized the old man who gave him a gold piece. The hound had found the scent once more.",
+    "Alerted by a strange shadow across his threshold, Valjean realized they were discovered. In the dead of night, he took Cosette in his arms, left his few belongings behind, and fled into the dark maze of Parisian alleys, with Javert and a squad of police pursuing closely behind."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch09.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Jean Valjean teaches young Cosette to read in their simple room"
+  },
+  {
+   "n": 10,
+   "title": "The Shadows of Paris",
+   "paras": [
+    "Trapped in a dead-end street with Javert's men closing in from both sides, Valjean faced imminent capture. Beside him stood a high wall surrounding a secluded garden. Using a rope he found nearby, Valjean hauled the terrified Cosette over the steep masonry and leaped down after her into the dark enclosure.",
+    "They had stumbled into the Convent of the Petit-Picpus. As fate would have it, the convent's old gardener was none other than Fauchelevent—the man whose life Valjean had saved beneath the crushed cart in Montreuil. Deeply devoted to his savior, Fauchelevent concealed them from the searching police.",
+    "He passed Valjean off as his brother, Ultimus Fauchelevent, securing him employment as an assistant gardener, while Cosette was admitted to the convent school. Behind those high stone walls, sheltered from the relentless pursuit of Javert, Valjean and Cosette spent several years of serene security. Cosette grew into a beautiful young woman, educated in virtue and piety, while Valjean found peace in hard physical labor and quiet devotion.",
+    "Yet, as Cosette approached womanhood, Valjean realized he could not condemn her to a lifetime confined within a cloister. She deserved to experience the world, to love, and to live fully. Upon the death of old Fauchelevent, Valjean left the sanctuary of the convent, renting three modest houses across Paris under assumed names, moving constantly between them to preserve their fragile safety while stepping into the treacherous light of the capital."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch10.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Valjean lifts Cosette over the high convent wall in the dark night"
+  },
+  {
+   "n": 11,
+   "title": "The Heart of Marius",
+   "paras": [
+    "Among the vibrant youth of Paris was Marius Pontmercy, a handsome young law student of aristocratic birth who had broken with his royalist grandfather to honor his late father's memory, an officer of Napoleon. High-minded, impoverished, and romantic, Marius lived in a garret, spending his days reading and walking in the Luxembourg Gardens.",
+    "It was there that Marius first noticed an elderly man walking alongside a young girl. At first, she seemed merely an awkward child, but within a year she blossomed into a woman of radiant grace. She was Cosette. Marius fell hopelessly, instantly in love, sitting on a distant bench each afternoon merely to gaze upon her beauty.",
+    "Cosette, too, felt her heart awaken. She noticed the handsome student with the dark eyes and began to look for his presence whenever she walked with her father. A silent language of glances and blushes passed between them across the garden pathways.",
+    "Valjean, ever vigilant, noticed the youth's persistent gaze. Fearing that Marius was a police spy or a threat to his quiet possession of Cosette's heart, Valjean suddenly changed their walk locations and finally abandoned the Luxembourg Gardens altogether. Distraught at their disappearance, Marius searched every street in Paris in vain, his heart consumed by sorrow, unaware that fate was drawing them toward a terrible political storm."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch11.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Marius watches Cosette and Jean Valjean from afar in the Luxembourg Gardens"
+  },
+  {
+   "n": 12,
+   "title": "Love in the Time of Revolution",
+   "paras": [
+    "Through a series of extraordinary coincidences involving the destitute Thénardier family—who now lived in Paris under the name Jondrette—Marius discovered Cosette's secret residence in the Rue Plumet. Guided by Éponine, Thénardier's tragic eldest daughter who harbored an unrequited love for Marius, the young student gained entry to the garden night after night.",
+    "There, beneath the starlight, Marius and Cosette declared their love, exchanging vows of eternal devotion. For a few sweet weeks, paradise existed in that secluded garden. But the turbulent world outside was fracturing. June 1832 brought economic distress, cholera, and political fury to Paris. Upon the death of General Lamarque, the champion of the poor, revolutionary fever reached a boiling point.",
+    "Marius's friends—the Friends of the ABC, led by the fiery idealism of Enjolras—prepared to raise the tricolor flag of revolt. At the same time, Valjean, spooked by anonymous warnings and Thénardier's criminal threats, announced to Cosette that they must leave for England within days.",
+    "Desperate at the thought of losing Cosette forever, Marius sought his grandfather's permission to marry her. The old man mockingly suggested he make her his mistress instead. Outraged by this insult to Cosette's honor, Marius stormed out into the night. With nothing left to live for and his beloved preparing to cross the sea, Marius followed the gunfire of the rising revolution, seeking a swift death upon the barricades."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch12.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Marius and Cosette meet secretly in the garden of Rue Plumet at night"
+  },
+  {
+   "n": 13,
+   "title": "The Barricades of Paris",
+   "paras": [
+    "On the night of June 5, 1832, narrow streets of Paris were blocked by overturned carts, cobblestones, and furniture. The barricade at the Rue de la Chanvrerie became the epicenter of a desperate struggle. Marius joined the insurgents, fighting with reckless bravery, driving back royal troops by threatening to blow up the powder keg.",
+    "Meanwhile, at the Rue Plumet, Valjean intercepted a letter sent by Marius to Cosette, revealing his location at the barricade and his expectation of death. A wild vortex of emotions tore at Valjean's heart. If Marius died, Cosette would remain his alone; his quiet life would be preserved. But seeing Cosette's agony, Valjean knew he could not let her lover perish. Donning his National Guard uniform, Valjean walked straight into the fiery heart of the insurrection.",
+    "At the barricade, Valjean saved lives using his immense physical strength, picking off snipers without killing anyone. During the siege, the insurgents captured Inspector Javert, who had infiltrated their ranks as a spy. Enjolras condemned him to death and entrusted the execution to Valjean.",
+    "Valjean led Javert into a dark alleyway behind the barricade. Raising his knife, Javert sneered, \"Take your revenge!\" But Valjean severed the police officer's ropes and fired a pistol into the air. \"You are free,\" Valjean whispered. \"If you escape this night, you will find me at my address. I do not blame you; you were doing your duty.\"",
+    "Javert walked away, his rigid universe shattered by an act of unmerited mercy. Shortly after, the government artillery breached the barricade. As the revolutionaries were cut down, Marius fell, severely wounded in the chest. Valjean lifted the unconscious youth upon his shoulders, lifted a heavy iron grate, and plunged into the subterranean darkness of the Paris sewers."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch13.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Valjean carries the wounded Marius away from the burning barricade"
+  },
+  {
+   "n": 14,
+   "title": "The Inspector's Dilemma",
+   "paras": [
+    "For hours, Valjean trudged through the filthy, knee-deep sludge of the Paris sewers, bearing the bleeding body of Marius through miles of pitch-black tunnels. Near the exit at the Seine, he found the gate locked. There, lurking in the shadows, was Thénardier, who mistook Valjean for a simple murderer dragging his victim. For a sum of money, Thénardier unlocked the gate, secretly tearing off a strip of Marius's coat to identify the corpse later.",
+    "Emerging onto the riverbank, Valjean was immediately confronted by Inspector Javert. Exhausted, Valjean offered no resistance. \"Help me take this young man to his grandfather's house,\" Valjean pleaded, \"then do with me what you will.\"",
+    "Javert agreed. They delivered the unconscious Marius to his grandfather's mansion. Afterwards, Valjean asked for a final favor: to stop briefly at his own home to say goodbye to Cosette. Javert accompanied him to the door, waiting on the street below.",
+    "When Valjean looked out his window moments later, the street was empty. Javert had vanished.",
+    "The inspector walked aimlessly through the night toward the Seine, his mind tormented by an agonizing moral crisis. All his life, his world had rested upon a simple foundation: the law was absolute, convicts were irredeemable beasts, and duty was unquestioning. Now, a convict had spared his life, and in return, he had committed treason against the law by releasing that convict.",
+    "He could not arrest the man who had saved him; he could not let a criminal go free and remain a police officer. His rigid, uncompromising conscience could not endure a world where mercy surpassed authority. Standing upon the Pont Notre-Dame, Javert plunged into the dark, rushing waters of the Seine."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch14.webp",
+    "w": 560,
+    "h": 835
+   },
+   "alt": "Inspector Javert stands tormented on the bridge over the Seine"
+  },
+  {
+   "n": 15,
+   "title": "Redemption and Peace",
+   "paras": [
+    "Marius recovered slowly under Cosette's devoted care. With his grandfather's joyfully given blessing, Marius and Cosette were married in a splendid ceremony. Valjean bestowed upon Cosette her full inheritance—the remaining fortune of six hundred thousand francs he had earned as Mayor Madeleine, preserved untouched through all his years of flight.",
+    "Yet, believing that his past as a convict would tarnish their spotless social standing, Valjean made an agonizing sacrifice. He confessed his criminal record to Marius, concealing his heroic rescue of Marius at the barricades. Horrified and believing Valjean to be a dangerous man who had killed Javert and stolen his wealth, Marius cold-shouldered the old man, gradually distancing him from Cosette.",
+    "Valjean ceased his daily visits, retreating to his lonely garret. Deprived of the daughter who was his entire world, his physical strength rapidly faded.",
+    "Months later, Thénardier visited Marius in disguise, offering to sell secrets about Valjean. In attempting to defame him, Thénardier inadvertently revealed the truth: Valjean was Mayor Madeleine, he had not murdered Javert, and it was he who had carried Marius through the sewers of Paris, producing the torn scrap of coat as proof.",
+    "Overwhelmed by remorse and gratitude, Marius rushed with Cosette to Valjean's humble chamber. They found the old man dying, illuminated by the dim glow of the bishop's silver candlesticks on his mantelpiece. Kneeling beside him, they bathed his hands in tears, begging for his forgiveness.",
+    "\"There is nothing to forgive,\" Valjean whispered, his face radiant with sublime joy. \"I die happy, knowing my child is loved.\" Joining their hands, he gently closed his eyes as the light of the candles caught his peaceful smile, his long journey of suffering fulfilled in total redemption."
+   ],
+   "img": {
+    "src": "assets/images/stories/les-miserables/ch15.webp",
+    "w": 560,
+    "h": 835
+   }, 
   {
    "id": "momotaro-the-peach-boy",
    "title": "Momotaro — The Peach Boy",
