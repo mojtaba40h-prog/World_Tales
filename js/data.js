@@ -6417,4 +6417,4 @@ const DATA = {
   ],
   "email": "world_tale@hotmail.com"
  }
-};
+}
