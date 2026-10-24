@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mojtaba40h-prog.github.io/sitemap.xml
