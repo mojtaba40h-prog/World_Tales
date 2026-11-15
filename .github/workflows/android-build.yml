@@ -20,6 +20,10 @@ jobs:
         uses: actions/checkout@v4
         with :
          ref: App
+      - name: Unzip project
+        run: |
+          mkdir -p extracted_app
+          unzip World_Tales-android.zip -d extracted_app
 
       - name: Setup Node
         uses: actions/setup-node@v4
